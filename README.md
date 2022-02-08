@@ -6,4 +6,4 @@ It shows a green square around the face when the person is wearing a mask and a 
 
 For best results, use surgical masks, but other types should work as well.
 
-Detailed documentation in Polish is presented in the [Dokumentacja.pdf](https://github.com/Schironichi/WFiIS-AO-Face-Detector/blob/main/Dokumentacja.pdf) file.
+Detailed documentation in Polish is presented in the [Dokumentacja.pdf](Dokumentacja.pdf) file.
